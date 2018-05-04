@@ -3,6 +3,7 @@
   1)可设置年、月、日，显示星期几。<br />
   2)可设置是否显示年、时分秒按钮。<br />
   3)可自定义约束，如限制选择指定日期，指定星期几。<br />
+  4)快捷清空选择。<br />
  <h3>2.效果图</h3>
   <image src="https://github.com/supercrsky/myjdatepicker/blob/master/pictures/date1.png" />
     <image src="https://github.com/supercrsky/myjdatepicker/blob/master/pictures/date2.png" />
